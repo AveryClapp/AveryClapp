@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**AveryClapp/AveryClapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Computer Science & Economics Student at Johns Hopkins University
 
-Here are some ideas to get you started:
+### 💻 About Me
+- 🌱 I'm currently learning [technology/language]
+- 👯 I'm looking to collaborate on [type of projects]
+- 🤔 I'm interested in [areas of tech]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- Languages: Python, JavaScript, C++
+- Tools & Technologies: [List relevant tools]
+
+### 🚀 Projects
+1. [Project Name](link) - Brief description
+2. [Project Name](link) - Brief description
+
+### 📊 GitHub Stats
+[Insert GitHub stats widget here]
+
+### 📫 How to reach me:
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
+
+### ⚡ Fun fact: [Something interesting about you]
