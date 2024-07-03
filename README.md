@@ -1,25 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Avery 👋
 
-## 🎓 Computer Science & Economics Student at Johns Hopkins University
 
 ### 💻 About Me
-- 🌱 I'm currently learning [technology/language]
-- 👯 I'm looking to collaborate on [type of projects]
-- 🤔 I'm interested in [areas of tech]
+-  🎓 I am a rising third year at Johns Hopkins University studying Computer Science and Economics where I also compete for the varsity swim team.
 
-### 🛠 Skills
-- Languages: Python, JavaScript, C++
-- Tools & Technologies: [List relevant tools]
+### 🚀 What I am up to
+- I'm currently interested in Machine Learning for financial analysis
+- I'm interested in contributing to open-source projects that provide real-world solutions.
+- Building cool stuff 😎
 
-### 🚀 Projects
-1. [Project Name](link) - Brief description
-2. [Project Name](link) - Brief description
+### 🛠 Tech Stack
+- Languages: Python, JavaScript, TypeScript, C++, SQL, HTML, SCSS
+- Tools & Technologies: AWS Services, GIT, React, Node, Docker, Kubernetes
 
-### 📊 GitHub Stats
-[Insert GitHub stats widget here]
-
-### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-
-### ⚡ Fun fact: [Something interesting about you]
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/avery-clapp-062289245/)
+- [Email](mailto:aclapp1@jh.edu)
