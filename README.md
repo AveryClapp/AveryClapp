@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 - Languages: Python, JavaScript, TypeScript, C++, SQL, HTML, SCSS
-- Tools & Technologies: AWS Services, GIT, React, Node, Docker, Kubernetes
+- Tools & Technologies: AWS Services, GIT, Docker, Kubernetes, Agile
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/avery-clapp-062289245/)
