@@ -10,7 +10,7 @@
 - Building cool stuff 😎
 
 ### 🛠 Tech Stack
-- Languages: Python, JavaScript, TypeScript, C++, SQL, HTML, SCSS
+- Languages: Python, JavaScript, TypeScript, C++, SQL, HTML, SCSS, Rust
 - Tools & Technologies: AWS Services, GIT, Docker, Kubernetes, Agile
 
 ### 📫 Connect with Me
