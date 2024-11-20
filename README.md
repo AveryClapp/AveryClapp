@@ -2,7 +2,7 @@
 
 
 ### 💻 About Me
--  🎓 I am a rising third year at Johns Hopkins University studying Computer Science and Economics where I also compete for the varsity swim team.
+-  🎓 I am a Junior at Johns Hopkins University studying Computer Science and Economics where I also compete for the varsity swim team.
 
 ### 🚀 What I am up to
 - I'm currently interested in Machine Learning for financial analysis
