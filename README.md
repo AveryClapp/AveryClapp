@@ -4,13 +4,8 @@
 ### 💻 About Me
 -  🎓 I am a Junior at Johns Hopkins University studying Computer Science and Economics where I also compete for the varsity swim team.
 
-### 🚀 What I am up to
-- I'm currently interested in Machine Learning for financial analysis
-- I'm interested in contributing to open-source projects that provide real-world solutions.
-- Building cool stuff 😎
-
 ### 🛠 Tech Stack
-- Languages: Python, JavaScript, TypeScript, C++, SQL, HTML, SCSS, Rust
+- Languages: Python, JavaScript, TypeScript, C++, SQL, Rust
 - Tools & Technologies: AWS Services, GIT, Docker, Kubernetes, Agile
 
 ### 📫 Connect with Me
