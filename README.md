@@ -1,6 +1,3 @@
-# Hi there, I'm Avery 👋
-
-
 ### 💻 About Me
 -  🎓 I am a Junior at Johns Hopkins University studying Computer Science and Economics where I also compete for the varsity swim team.
 
