@@ -9,6 +9,6 @@
 - Tools & Technologies: AWS Services, GIT, Docker, Kubernetes, Agile
 
 ### 📫 Connect with Me
-- [Portfolio](averyclapp.com)
+- [Portfolio](https://www.averyclapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/avery-clapp-062289245/)
 - [Email](mailto:aclapp1@jh.edu)
